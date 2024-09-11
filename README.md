@@ -1,4 +1,4 @@
-<h1>This is my second account, my main account vuphuong1794 has been flaggeds is my second account, my main account vuphuong1794 has been flagged, so it is hidden from public view 😢</h1>
+<h1>This is my second account, my main account vuphuong1794 has been flagged, so it is hidden from public view 😢</h1>
 <h1 align="center">Hi 👋, I'm David Vu</h1>
 <h3 align="center">A passionate fullstack developer from VietNam</h3>
 
