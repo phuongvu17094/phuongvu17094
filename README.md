@@ -35,6 +35,10 @@ class David_Vu:
     <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://image.pngaaa.com/6/3692006-middle.png" alt="angular" width="40" height="40"/>
   </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png" alt="angular" width="90" height="60"/>
+  </a>
+  
   
 <h3>Front-end technologies</h3>
 <p align="left">
