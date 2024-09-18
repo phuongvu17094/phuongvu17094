@@ -29,6 +29,7 @@ class David_Vu:
   </a>
    <h3> CI/CD </h3>
    <h3>Microservices</h3>
+   <image src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="55" height="40"/>
 <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://cavedweller92.wordpress.com/wp-content/uploads/2019/07/swagger-logo-horizontal.png" alt="" width="100" height="40"/>
   </a>
