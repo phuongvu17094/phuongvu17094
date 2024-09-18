@@ -146,15 +146,15 @@ class David_Vu:
 * [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service 
 * [LOUIS.](https://github.com/phuongvu17094/louis) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
 * [discord-clone](https://github.com/vuphuong1794/discord-clone) - Full-stack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
-* [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
-* [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
+* [hiBooking](https://github.com/phuongvu17094/HiBooking) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
+* [rubix](https://github.com/phuongvu17094/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
 * [Fullstack_Note-App](https://github.com/vuphuong1794/Fullstack_Note-App) - Full-stack Note App with React, MongoDB, GraphQL, Firebase, NodeJS
 * [Chat_App](https://github.com/vuphuong1794/Chat_App) - Full-Stack chat app with Angular, ASP.NET core web, SignalR
 * [RANKED-VOTE-APP](https://github.com/vuphuong1794/Ranked-choice-voting) - This is a voting application with ReactJS, Redis, NestJS, Docker, typescript
-* [C#-Winform-weatherApp](https://github.com/vuphuong1794/CSharp-winform-weatherApp) - This is a desktop weather app using c#, winform(.Net framework), openweathermap Api.
+* [C#-Winform-weatherApp](https://github.com/phuongvu17094/Csharp-Winform-WeatherApp) - This is a desktop weather app using c#, winform(.Net framework), openweathermap Api.
 * [Weather-APP2](https://github.com/vuphuong1794/Weather-APP2) - weather forecast website 
 * [clone-spotify](https://github.com/vuphuong1794/clone-spotif) - Spotify clone
-* [jsonWebToken](https://github.com/vuphuong1794/JsonWebToken) - using jwt to increase user experience, automatically get new tokens without users having to log in again
+* [Json-Web-Token](https://github.com/phuongvu17094/Json-Web-Token) - using jwt to increase user experience, automatically get new tokens without users having to login again
 * [pokemon-dictionarys](https://github.com/vuphuong1794/pokemon) - pokemon collection and their information
 * [Nike-Store](https://github.com/vuphuong1794/Nike-Store) - Front-end Nike store Website with HTML, CSS, JS
 * [Greedy_Robots](https://github.com/vuphuong1794/Greedy_Robots) - Robot game moves in a matrix to find the path with the highest score in C++ language
