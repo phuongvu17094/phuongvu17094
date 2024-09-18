@@ -144,7 +144,7 @@ class David_Vu:
 
 ## ✨ Project Showcase
 * [shipper-fees-Service](https://github.com/vuphuong1794/Shipping-fees-Service) - Calculate Shipping costs service 
-* [LOUIS.](https://github.com/vuphuong1794/LOUIS.) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
+* [LOUIS.](https://github.com/phuongvu17094/louis) - Full-stack ecommerce shop with ReactJS, ExpressJS, MongoDB, Node Mailer, PassportJS, Google Oauth2
 * [discord-clone](https://github.com/vuphuong1794/discord-clone) - Full-stack discord clone with React, NestJS, GraphQL, Postgres, Prisma, Mantine, Clerk 
 * [hiBooking](https://github.com/vuphuong1794/MERN-Booking-Web) - Full-stack online booking website with ReactJS, ExpressJS, MongoDB, NodeJS, RestAPI
 * [rubix](https://github.com/vuphuong1794/rubix) - Full-stack Ecommerce Shop with NextJS, TypeScript, NestJS, TailwindCSS, PostgreSQL
