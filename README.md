@@ -1,4 +1,3 @@
-<h1>This is my second account, my main account vuphuong1794 has been flagged, so it is hidden from public view 😢</h1>
 <img src="https://github.com/user-attachments/assets/aabbe00b-911d-4e12-9a70-a8911046846d"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=Hi+my+name+is+Phuong,+I'm+a+Full+Stack+Developer!+👋;" />
